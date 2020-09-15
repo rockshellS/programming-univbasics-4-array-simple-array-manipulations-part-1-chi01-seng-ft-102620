@@ -3,7 +3,7 @@ def using_push(array,string)
 end
 
 def using_shift(array)
-  array.shift
+  array.shift[0]
 end
 
 
